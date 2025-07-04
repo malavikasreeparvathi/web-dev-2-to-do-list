@@ -23,4 +23,4 @@ A simple **Full Stack MERN To-Do List** built with **React, Node.js, Express, an
 ## Live Links
 
 - **Frontend:** https://web-dev-2-to-do-list.vercel.app/
-- **Backend API:** https://web-dev-2-to-do-list.onrender.com
+- **Backend API:** https://web-dev-2-to-do-list.onrender.com/api/todos

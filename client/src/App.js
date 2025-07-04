@@ -2,10 +2,7 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import "./App.css";
 
-// 👇👇👇 Replace with your Render backend URL when deployed
-const API_BASE_URL = "http://localhost:5000";
-// Example for Render: 
-// const API_BASE_URL = "https://web-dev-2-to-do-list.onrender.com";
+const API_BASE_URL = "https://web-dev-2-to-do-list.onrender.com";
 
 function App() {
   const [todos, setTodos] = useState([]);
